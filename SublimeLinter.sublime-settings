@@ -1,0 +1,11 @@
+// SublimeLinter Settings - User
+	{
+	"paths": {
+        "linux": [],
+        "osx": [],
+        "windows": [
+        	"C:\\Users\\manis\\AppData\\Roaming\npm"
+        ]
+    },
+    "debug": true,
+}

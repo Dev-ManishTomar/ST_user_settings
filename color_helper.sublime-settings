@@ -1,0 +1,9 @@
+// Settings in here override those in "ColorHelper/color_helper.sublime-settings",
+
+{
+	"use_webcolor_names": false,
+	"inline_preview_position": "right",
+	"graphic_size": "large",
+	"use_hex_color_picker": true,
+	"click_color_box_to_pick": "color_picker",
+}

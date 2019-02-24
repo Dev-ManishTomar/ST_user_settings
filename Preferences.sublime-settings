@@ -1,0 +1,23 @@
+{
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "b4",
+			"selector": "text.html"
+		}
+	],
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"jQuery",
+		"Vintage"
+	],
+	"jshint.options":
+	{
+		"esversion": 6
+	},
+	"save_on_focus_lost": true,
+	"show_full_path": false,
+	"theme": "Material-Theme-Darker.sublime-theme"
+}

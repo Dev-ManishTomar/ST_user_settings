@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AutoFileName",
+		"Autoprefixer",
+		"Babel",
+		"Bootstrap 4 Autocomplete",
+		"Bootstrap 4 Snippets",
+		"BracketHighlighter",
+		"Emmet",
+		"Hover Image Preview",
+		"HTML-CSS-JS Prettify",
+		"JavaScript Completions",
+		"jQuery",
+		"Material Theme",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-eslint"
+	]
+}
